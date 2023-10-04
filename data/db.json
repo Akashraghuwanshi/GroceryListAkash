@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "pizza"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Milk"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Almond, chocolate ,Unsalted maggi"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Burger"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Carrot"
+    }
+  ]
+}
