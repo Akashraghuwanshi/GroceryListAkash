@@ -11,7 +11,7 @@ import apiRequest from "./apiRequest";
 
 
 function App() { 
-   const API_URL = 'https://192.168.155.202:3500/items';
+   const API_URL = 'http://192.168.155.202:3500/items';
 
     const [items,setItems] =useState([]);
 
