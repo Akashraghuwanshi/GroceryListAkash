@@ -8,7 +8,7 @@ import { useEffect, useState } from 'react'
 import AddItem from "./AddItem";
 import SearchItems from "./SearchItems";
 import apiRequest from "./apiRequest";
-import { type } from "@testing-library/user-event/dist/type";
+
 
 function App() { 
    const API_URL = 'http://localhost:3500/items';
